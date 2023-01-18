@@ -1,0 +1,9 @@
+../Core/Inc/CliCommand.h:28:14:const char* CliCommand::getName() const	16	static
+../Core/Src/CliContainer.cpp:7:1:CliContainer::CliContainer()	16	static
+../Core/Src/CliContainer.cpp:13:1:CliContainer::~CliContainer()	24	static
+../Core/Src/CliContainer.cpp:22:6:void CliContainer::add(CliCommand*)	16	static
+../Core/Src/CliContainer.cpp:30:5:int CliContainer::getCounter()	16	static
+../Core/Src/CliContainer.cpp:35:5:int CliContainer::Call(char*, char*)	32	static
+../Core/Src/CliContainer.cpp:44:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../Core/Src/CliContainer.cpp:44:1:cpp)	8	static
+../Core/Src/CliContainer.cpp:44:1:cpp)	8	static

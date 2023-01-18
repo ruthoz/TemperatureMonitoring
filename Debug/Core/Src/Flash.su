@@ -1,0 +1,3 @@
+../Core/Src/Flash.cpp:11:6:void Flash::erase()	40	static
+../Core/Src/Flash.cpp:26:6:void Flash::writh(void*)	40	static
+../Core/Src/Flash.cpp:36:6:void Flash::read()	24	static

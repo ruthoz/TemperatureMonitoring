@@ -1,0 +1,4 @@
+../Core/Src/File.cpp:10:1:File::File(const char*)	16	static
+../Core/Src/File.cpp:14:6:void File::read()	280	static
+../Core/Src/File.cpp:40:6:void File::write(const char*)	32	static
+../Core/Src/File.cpp:61:6:void File::clear()	16	static

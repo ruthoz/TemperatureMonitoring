@@ -1,0 +1,2 @@
+../Core/Src/Buzzer.cpp:10:6:void Buzzer::on()	16	static
+../Core/Src/Buzzer.cpp:16:6:void Buzzer::off()	16	static

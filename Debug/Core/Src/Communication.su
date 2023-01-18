@@ -1,0 +1,3 @@
+../Core/Src/Communication.cpp:12:5:int Communication_commTask()	16	static
+../Core/Src/Communication.cpp:62:6:void Communication_handleCommand()	56	static
+../Core/Src/Communication.cpp:77:17:void StartComTask()	8	static

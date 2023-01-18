@@ -1,0 +1,4 @@
+../Core/Src/RTC.cpp:14:5:int Rtc::bcdToInt(uint8_t)	16	static
+../Core/Src/RTC.cpp:19:9:uint8_t Rtc::intToBcd(int, int, int)	24	static
+../Core/Src/RTC.cpp:29:6:void Rtc::getTime(DateTime*)	40	static
+../Core/Src/RTC.cpp:51:6:void Rtc::setTime(DateTime*)	40	static
