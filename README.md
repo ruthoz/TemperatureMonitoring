@@ -4,4 +4,5 @@
 
 #
 #
-![temperatureMoniture-‫עמוד-3‬ drawio](https://user-images.githubusercontent.com/105192139/213904294-13e9cd55-a9f8-4571-941c-fb69028d408f.png)
+![temperatureMoniture-‫עמוד-3‬ drawio](https://user-images.githubusercontent.com/105192139/213916325-11c2b1b4-614b-4d0c-99ca-d42c214c8c23.png)
+
